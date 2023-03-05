@@ -7485,7 +7485,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let xeonezy = `┌─❖
 │ Hi 👋 
 └┬❖  ${pushname} 
-┌┤✑  ${ucapanWaktu} 😄
+┌┤✑  ${Howayumate} 😄
 │└────────────┈ ⳹
 │
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
